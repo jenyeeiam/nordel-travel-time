@@ -3,14 +3,22 @@ body {
   padding: 0;
 }
 
-.App {
-}
-
 #map {
   position: absolute;
   top: 0;
   height: 100vh;
   width: 100%;
+}
+
+.clock {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  height: 30px;
+  position: absolute;
+  padding-top: 10px;
+  font-size: 30px
 }
 
 .footer {
